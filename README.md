@@ -1,5 +1,6 @@
 # Примеры использования geometry generator в QGIS
 
+- Статья [Жесткий цигун с условными знаками или зачем нужен geometry generator](https://habr.com/ru/post/504986/)
 - Файл проекта ```gg_examples.qgz```
 - Файл с данными ```gg_examples.gpkg```
 - Файл ```custom.py``` необходимо положить в папку ```~/.local/share/QGIS/QGIS3/profiles/default/python/expressions```
